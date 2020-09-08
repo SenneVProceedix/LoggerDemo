@@ -13,8 +13,7 @@
     }
   },
   "EventLog": {
-    "SourceName": "LoggerDemo"
-    //MachineName: The local machine name is used.
+
   },
   "ApplicationInsights": {
     "LogLevel": {
