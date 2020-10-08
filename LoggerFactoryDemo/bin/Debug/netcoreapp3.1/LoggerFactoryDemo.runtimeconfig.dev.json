@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Senne\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Senne\\.nuget\\packages"
+    ]
+  }
+}
